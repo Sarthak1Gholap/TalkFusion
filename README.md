@@ -2,7 +2,7 @@ Here's a structured **README** file tailored to your **MERN + Socket.io real-tim
 
 ---
 
-# **Real-Time Chat App**  
+# **TalkFusion**  
 
 ## **Description**  
 A **real-time chat application** built with the **MERN stack (MongoDB, Express, React, Node.js)** and **Socket.io** for instant messaging. It features **JWT authentication, online user tracking, global state management with Zustand, and modern UI styling using TailwindCSS & Daisy UI**. The app supports **secure authentication, real-time messaging, and a seamless user experience**.  
